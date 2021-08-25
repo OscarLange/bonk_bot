@@ -17,5 +17,10 @@ You need to create a config.json file like this:
     "token": "your_bot_token" ,  
     "offset": 130737589  
 }  
+
+And a stats.json file with an empty json:  
+{  
+     
+}  
   
 You can get a bot token from here https://core.telegram.org/bots
